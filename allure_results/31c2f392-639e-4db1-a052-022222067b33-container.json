@@ -1,0 +1,1 @@
+{"uuid": "91d4712f-0325-4faf-af80-e11eb0d8a027", "children": ["550b1d9f-267e-4e44-9560-2c8ff7c5f4c3"], "befores": [{"name": "driver", "status": "passed", "steps": [{"name": "Запускаем браузер", "status": "passed", "start": 1660138755718, "stop": 1660138755718}], "start": 1660138755718, "stop": 1660138755718}], "start": 1660138755718, "stop": 1660138755724}
